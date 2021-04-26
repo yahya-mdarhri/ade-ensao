@@ -28,7 +28,7 @@
                                        <div class="slider-text-inner">
                                            <h1>ASSOCITION DES LAUREATS DE L'ECOLE NATIONALE DES SCIENCES APPLIQUEES DE OUJDA</h1>
                                        
-                                            <p><a class="btn btn-primary btn-lg" href="https://clubgc-ensao.com/" target="_blank ">alensao.com</a></p>
+                                            <p><a class="btn btn-primary btn-lg" href="https://alensao.com/" target="_blank ">alensao.com</a></p>
                                        </div>
                                    </div>
                                </div>

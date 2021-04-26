@@ -10,6 +10,8 @@
 <?php include("cs.php"); ?>
 </head>
 <body>
+<div class="fh5co-loader"></div>
+        <div id="page">
 <?php include("nav.php"); ?>
 
 <div id="fh5co-contact">
@@ -22,7 +24,7 @@
 						<ul>
 							<li class="address">ensa oujda<br>  BP 669, Oujda 60000</li>
 							<li class="phone"><a href="tel://1234567920">05365-05470</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">ade.ensao@gmail.com</a></li>
+							<li class="email" ><a href="mailto:ade.ensao@gmail.com" style="color : blue;">ade.ensao@gmail.com</a></li>
 						</ul>
 					</div>
 
@@ -72,8 +74,9 @@
 		</div>
 	</div>
 
-
+	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13128.681000846935!2d-1.8963396!3d34.6504031!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x23a99f5d4e9a3161!2s%C3%89cole%20Nationale%20des%20Sciences%20Appliqu%C3%A9es!5e0!3m2!1sfr!2sma!4v1617221282506!5m2!1sfr!2sma" width=100% height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 <?php include("footer.php"); ?>
+</div>
 <div class="gototop js-top">
 		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 	</div>

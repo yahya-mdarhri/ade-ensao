@@ -57,7 +57,7 @@
                         </ul>
                     </li>
                     <li class="has-dropdown"><a href="./index-émissions.php">émissions</a><ul class="dropdown">
-                            <li><a href="./ensaouites.php">Ensaouistes du monde</a></li>
+                            <li><a href="./ensaouites.php">Ensaoistes du monde</a></li>
                             <li><a href="./klam2.0.php">KLAM-2.0</a></li>
                         </ul>
                     </li>
