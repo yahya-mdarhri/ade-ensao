@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
-<nav class="fh5co-nav" role="navigation">
+<nav class="nav" role="navigation">
     <div class="top">
         <div class="container">
             <div class="row">

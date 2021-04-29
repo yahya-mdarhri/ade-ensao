@@ -6,6 +6,7 @@
 	<!-- Animate.css -->
 	<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/mag.css">
+	<link rel="stylesheet" href="css/nav-style.css">
 	<!-- Icomoon Icon Fonts-->
 	<link rel="stylesheet" href="css/icomoon.css">
 	<!-- Bootstrap  -->

@@ -82,7 +82,7 @@ L'ADE est un organisme qui regroupe chaque année 1000 étudiants, car chaque é
                             <br><br><br>
                             <p>
                                 <small class="block">&copy; <?php echo date("Y");?> ADE ENSA OUJDA. All Rights Reserved.</small> 
-                                <small class="block">Designed and developped by : yahya mdarhri</small>
+                                <small class="block">Designed and developped by : Yahya Mdarhri</small>
                             </p>
                         </div>
                     </div>
