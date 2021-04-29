@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 /video/altruisme.m4v filter=lfs diff=lfs merge=lfs -text
+/video/indus.mp4 filter=lfs diff=lfs merge=lfs -text
