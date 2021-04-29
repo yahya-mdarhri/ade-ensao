@@ -4,3 +4,4 @@
 /video/indus.mp4 filter=lfs diff=lfs merge=lfs -text
 /video/solidarity.mp4 filter=lfs diff=lfs merge=lfs -text
 /video/veolife.mp4 filter=lfs diff=lfs merge=lfs -text
+/video/idscc.mp4 filter=lfs diff=lfs merge=lfs -text
