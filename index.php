@@ -101,7 +101,7 @@
                                 <i class="fas fa-graduation-cap"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>projet educatif</h3>
+                                    <h3  style="text-transform:uppercase;">projet educatif</h3>
                                     <p>Un outil stratégique permettant de définir et de faire connaître à la communauté éducative, les priorités d'action et les résultats attendus pour assurer la réussite éducative de tous les étudiants</p>
                                 </div>
                             </div>
@@ -112,7 +112,7 @@
                                 <i class="fas fa-book-reader"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>projet culturel</h3>
+                                    <h3 style="text-transform:uppercase;">projet culturel</h3>
                                     <p>Un ingénieur sans culture est un ingénieur sans expertise, nous essayons en permanence de développer la culture générale de nos étudiants, en les incitant à organiser le maximum de compétitions, des ateliers etc.</p>
                                 </div>
                             </div>
@@ -123,7 +123,7 @@
                                 <i class="fas fa-dice"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>projet divertissement</h3>
+                                    <h3 style="text-transform:uppercase;">projet divertissement</h3>
                                     <p>Habituer les étudiants à trouver le juste équilibre entre le travail et le divertissement.</p>
                                 </div>
                             </div>
@@ -134,7 +134,7 @@
                                 <i class="fas fa-table-tennis"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>projet sport</h3>
+                                    <h3 style="text-transform:uppercase;">projet sport</h3>
                                     <p>Travailler le coté créativité et dynamisme de l'étudiant</p>
                                 </div>
                             </div>
@@ -200,32 +200,7 @@ ou administration (production industrielle, finance, comptabilité, ressources h
 
 
 
-<div id="fh5co-course-categories">
-                <div class="container">
-                    <div class="row animate-box">
-                        <div class="fh5co-heading">
-                            <h2 class="text-center">ENSAO</h2>
-                            <p>École Nationale des sciences Appliquées d'Oujda est une grande école d'ingénieurs qui fait partie du réseau ENSA, elle est la première grande école d'ingénieurs d'état dans la région de l'oriental, Elle à été créée par le décret ministériel n 0 2-99-1007 du premier Rajeb 1422 ( 19 septembre 2001). La formation à I'ENSAO dure 5 ans et se décompose en deux cycle •
-Le cycle préparatoire : dure deux ans et met l'accent sur les sciences fondamentales (maths-physiqueélectricité — mécanique — informatique ...), ce cycle préparatoire généraliste permet aux étudiant de découvrir le domaine pour lequel ils ont le plus d'internet garantissant ainsi une bonne orientation par la suite.
-Le cycle ingénieurs : Celui-ci dure trois ans, après la fin du cycle préparatoire, les étudiants choisissent une branche parmi les six proposés par I'ENSAO, l'attribution des filières se fait selon le classement de l'étudiant et selon ses choix :
-Les 6 filières proposées lors di début du cycle ingénieurs sont :
-<ul>
-<li>Génie Informatique (GI)</li>
-<li>Génie télécommunication et réseaux (GTR)</li>
-<li>Génie électrique (GE)</li>
-<li>Génie Industriel (Gindus)</li>
-<li>Génie civil (GC)</li>
-<li>Génie des systèmes électroniques informatique et réseaux (GSEIR)</li>
-<li>Ingénieurie Data Science And Cloud Computing(IDSCC)</li>
-<li>Securité Informatique Et Cyber Security (SICS)</li>
-<li>Ingénieurie Des Technologies De L'Information Et Réseaux De Communication(ITIRC) </li>
 
-</ul>
-</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
 
 
