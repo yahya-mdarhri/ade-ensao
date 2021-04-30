@@ -75,7 +75,7 @@
             
         </div>
     </div>
-    <hr style="border: 1.5px solid ;
+    <hr style="border: 1.5px solid ; margin : 1px;
   border-radius: 20px;">
 </nav>
 <script src="js/main.js"></script>
