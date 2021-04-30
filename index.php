@@ -86,9 +86,9 @@
 
 
 
-            <div id="fh5co-course-categories">
-                <div class="container">
-                    <div class="row animate-box">
+            <div style="padding-top : 20px;padding-bottom : 20px">
+                <div class="container" >
+                    <div class="row animate-box" >
                         <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
                             <h2 style="text-transform:capitalize;">association des étudiants</h2>
                             <p>C'est parce que nous voulons un Ingénieur Producteur, Innovateur, Polyvalent et enfin Equilibré que nous luttons chaque jour</p>
@@ -101,7 +101,7 @@
                                 <i class="fas fa-graduation-cap"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3  style="text-transform:uppercase;">projet educatif</h3>
+                                    <h3 style="text-transform:uppercase;">projet educatif</h3>
                                     <p>Un outil stratégique permettant de définir et de faire connaître à la communauté éducative, les priorités d'action et les résultats attendus pour assurer la réussite éducative de tous les étudiants</p>
                                 </div>
                             </div>
@@ -146,7 +146,7 @@
 
         
 
-            <div id="fh5co-course-categories">
+            <div style="padding-top : 10px;padding-bottom : 10px">
                 <div class="container">
                     <div class="row animate-box">
                         <div class="text-center fh5co-heading">
@@ -162,7 +162,7 @@ Dans ce cadre nous avons décidé de nous ouvrir au monde extérieur, car notre 
            
 
 
-            <div id="fh5co-course-categories">
+            <div style="padding-top : 10px;padding-bottom : 10px">
                 <div class="container">
                     <div class="row animate-box">
                         <div class="">
@@ -192,7 +192,6 @@ ou administration (production industrielle, finance, comptabilité, ressources h
 <br>
 <br>
 <br>
-
 
 
 
