@@ -35,32 +35,32 @@
 						<div class="row form-group">
 							<div class="col-md-6">
 								<!-- <label for="fname">First Name</label> -->
-								<input type="text" name="prenom" class="form-control" placeholder="prenom">
+								<input type="text" name="prenom" class="form-control" placeholder="Prénom">
 							</div>
 							<div class="col-md-6">
 								<!-- <label for="lname">Last Name</label> -->
-								<input type="text" name="nom" class="form-control" placeholder="nom">
+								<input type="text" name="nom" class="form-control" placeholder="Nom">
 							</div>
 						</div>
 
 						<div class="row form-group">
 							<div class="col-md-12">
 								<!-- <label for="email">Email</label> -->
-								<input type="text" name="email" class="form-control" placeholder="addresse mail">
+								<input type="text" name="email" class="form-control" placeholder="Addresse Mail">
 							</div>
 						</div>
 
 						<div class="row form-group">
 							<div class="col-md-12">
 								<!-- <label for="subject">Subject</label> -->
-								<input type="text" name="subject" class="form-control" placeholder="objet">
+								<input type="text" name="subject" class="form-control" placeholder="Objet">
 							</div>
 						</div>
 
 						<div class="row form-group">
 							<div class="col-md-12">
 								<!-- <label for="message">Message</label> -->
-								<textarea name="message" name="message" cols="30" rows="10" class="form-control" placeholder="text"></textarea>
+								<textarea name="message" name="message" cols="30" rows="10" class="form-control" placeholder="Text"></textarea>
 							</div>
 						</div>
 						<div class="form-group">
