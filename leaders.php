@@ -70,7 +70,7 @@
                                     </ul>
                                 </div>
                                 <span>président</span>
-                                <h3>youssef lbour</h3>
+                                <h3 style="text-transform : capitalize;">youssef lbour</h3>
                                 
                             </div>
                         </div>
@@ -84,7 +84,7 @@
                                     </ul>
                                 </div>
                                 <span>vice-président</span>
-                                <h3>jihane benbrik</h3>
+                                <h3 style="text-transform : capitalize;">jihane benbrik</h3>
                                
                             </div>
                         </div>
@@ -99,7 +99,7 @@
                                     </ul>
                                 </div>
                                 <span>secretaire generale</span>
-                                <h3>hadil mhamdi</h3>
+                                <h3 style="text-transform : capitalize;">hadil mhamdi</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -111,7 +111,7 @@
                                     </ul>
                                 </div>
                                 <span>trésorier</span>
-                                <h3>younes benlachhab</h3>
+                                <h3 style="text-transform : capitalize;">younes benlachhab</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -124,7 +124,7 @@
                                     </ul>
                                 </div>
                                 <span>responsable des comités</span>
-                                <h3>yahya mdarhri</h3>
+                                <h3 style="text-transform : capitalize;">yahya mdarhri</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -138,7 +138,7 @@
                                     </ul>
                                 </div>
                                 <span>responsable des clubs</span>
-                                <h3>khadija arbaoui</h3>
+                                <h3 style="text-transform : capitalize;">khadija arbaoui</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -151,7 +151,7 @@
                                     </ul>
                                 </div>
                                 <span>responsable syndical</span>
-                                <h3>mouhcine assellaou</h3>
+                                <h3 style="text-transform : capitalize;">mouhcine assellaou</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -165,7 +165,7 @@
                                     </ul>
                                 </div>
                                 <span>responsable de communication</span>
-                                <h3>Mohammed-ayoub maftouhi</h3>
+                                <h3 style="text-transform : capitalize;">Mohammed-ayoub maftouhi</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -180,7 +180,7 @@
                                     </ul>
                                 </div>
                                 <span>responsable de formation</span>
-                                <h3>amina el kadi</h3>
+                                <h3 style="text-transform : capitalize;">amina el kadi</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -193,7 +193,7 @@
                                     </ul>
                                 </div>
                                 <span>designer</span>
-                                <h3>ihab iziz</h3>
+                                <h3 style="text-transform : capitalize;">ihab iziz</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -207,7 +207,7 @@
                                     </ul>
                                 </div>
                                 <span>représentant du cycle ingénieure</span>
-                                <h3>yassine hidaoui</h3>
+                                <h3 style="text-transform : capitalize;">yassine hidaoui</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
@@ -220,7 +220,7 @@
                                     </ul>
                                 </div>
                                 <span>représentant du cycle préparatoire</span>
-                                <h3>adnane el khatib</h3>
+                                <h3 style="text-transform : capitalize;">adnane el khatib</h3>
                             </div>
                         </div>
                     </div>
