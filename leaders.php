@@ -206,7 +206,7 @@
                                         <li><a href="https://www.linkedin.com/in/yassine-douhi-a428b217b/"target="_blank "><i class="icon-linkedin2"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>représentant du cycle ingénieure</span>
+                                <span>membre du conseil</span>
                                 <h3 style="text-transform : capitalize;">yassine hidaoui</h3>
                             </div>
                         </div>
@@ -219,7 +219,7 @@
                                         <li><a href="https://www.instagram.com/adnane.elkhatibe/"target="_blank "><i class="icon-instagram"></i></a></li>
                                     </ul>
                                 </div>
-                                <span>représentant du cycle préparatoire</span>
+                                <span>membre du conseil</span>
                                 <h3 style="text-transform : capitalize;">adnane el khatib</h3>
                             </div>
                         </div>
