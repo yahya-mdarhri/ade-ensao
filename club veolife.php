@@ -94,7 +94,7 @@ Subséquemment, être membre du club permettra à l’élève ingénieur de dév
                                 <i class="far fa-question-circle"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>pourquoi Veolife?</h3>
+                                    <h3 style="text-transform : uppercase">pourquoi Veolife?</h3>
                                     <p>Lorsque vous commencez tout juste votre expérience universitaire en tant qu'étudiant de première année, il peut sembler que le monde entier est votre huître. Entre toutes les personnes à rencontrer, et les cours à suivre . Et parce que vous voulez tirer le maximum de votre expérience universitaire, vous êtes prêt à saisir autant d'opportunités que possible. Intégrer notre club veolife vous donne plusieurs occasions pour s’épanouir et se divertir, cela peut aussi vous conduire a de grandes amitiés et de nouvelles opportunités de réseautage, d’un autre cote veolife est une chance de développer vos compétences ainsi que renforcer votre confiance en vous ce qui vous mènera a devenir plus collaboratif.
 Bref veolife n’est pas un simple club c’est toute une histoire.</p>
                                 </div>
@@ -106,7 +106,7 @@ Bref veolife n’est pas un simple club c’est toute une histoire.</p>
                                 <i class="fas fa-bullseye"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>notre but</h3>
+                                    <h3 style="text-transform : uppercase">notre but</h3>
                                     <p>Dans VEOLIFE, nous avons un objectif unique, simple, mais fondamental : Profiter. Profiter de notre temps à l'ENSA, profiter de notre période en temps qu'étudiants, profiter des opportunités qui nous sont données. On pense qu'il y a plus à obtenir de l'ENSA que les cours et les TPs. On ne va pas dire que ces derniers n'ont par leur importance, mais si on passe tout notre parcours en tant qu'élèves ingénieurs à ne rien faire d'autre, on se rapproche trop du style du lycée. Alors on organise des sorties, des séances de films, des activités bénévoles, des soirées, des émissions... Toutes sortes de choses qui nous permettent de sortir du quotidien, de s'activer en s'amusant, de travailler en équipe dans un cadre amical, de se responsabiliser sans trop se prendre au sérieux... Bref, encore une fois, de profiter!.</p>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ Bref veolife n’est pas un simple club c’est toute une histoire.</p>
                                     <i class="fas fa-american-sign-language-interpreting"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>témoignages</h3>
+                                    <h3 style="text-transform : uppercase">témoignages</h3>
                                     <p>Ismail Dine : VEOLIFE était ma première grande expérience avec le parascolaire, sans laquelle je n'aurai pas eu le courage d'entamer d'autres activités.
 <br>Mourtada Boufelja : Pour moi, VEOLIFE est comme un style de vie. Membre un jour, membre toujours.
 <br>Amina Chouitar : Une deuxième famille. A chaque fois que je suis à l'ENSA, je me sens chez moi, et c'est grâce à eux.</p>
@@ -130,7 +130,7 @@ Bref veolife n’est pas un simple club c’est toute une histoire.</p>
                                 <i class="fab fa-vuejs"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3>club Veolife</h3>
+                                    <h3 style="text-transform : uppercase">club Veolife</h3>
                                     <p>Une définition d'un membre de VEOLIFE est comme suit : "VEO, qui signifie fou, et LIFE, soi, la vie. Donc une vie en folie". La vérité, en fait, c'est que VEOLIFE n'a pas de définition unique. Chacun définie le club selon ce dont il a le plus besoin, selon ce que le club lui apporte. Pour certains, c'est un moyen de se faire des connaissances, qui, souvent, durent au-delà du parcours à l'ENSA. Pour d'autres, c'est un échappatoire du quotidien des études, une bouffée d'oxygène pour reprendre du souffle avant d'aller de l'avant. Pour d'autres encore, c'est l'occasion idéale de forger sa personalité, d'apprendre à parler en publique, ou à travailler avec, si non plus tard, gérer, une équipe. Là voilà donc, la réponse : Chacun définit VEOLIFE, en fonction de ses besoins.</p>
                                 </div>
                             </div>
