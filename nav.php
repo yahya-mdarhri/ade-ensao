@@ -1,19 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <nav class="nav" role="navigation">
-    <div class="top">
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12 text-right">
-                    <p class="site">www.ade-ensao.com</p>
-                    <p class="num">TEL : 05365-05470</p>
-                    <ul class="social"  >
-                        <li><a href="https://web.facebook.com/ade.ensao.92" target="_blank"><i class="icon-facebook2"></i></a></li>
-                        <li><a href="mailto:ade.ensao@gmail.com"><i class="icon-mail5"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="top-menu upper-case"> 
         <div class="container">
             <div class="row">
