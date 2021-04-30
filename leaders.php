@@ -165,7 +165,7 @@
                                     </ul>
                                 </div>
                                 <span>responsable de communication</span>
-                                <h3>ayoub maftouhi</h3>
+                                <h3>Mohammed-ayoub maftouhi</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">
