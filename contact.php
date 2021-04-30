@@ -20,7 +20,7 @@
 				<div class="col-md-5 col-md-push-1 animate-box">
 					
 					<div class="fh5co-contact-info">
-						<h3>Contact Information</h3>
+						<h3>Plus Informations</h3>
 						<ul>
 							<li class="address">ensa oujda<br>  BP 669, Oujda 60000</li>
 							<li class="phone"><a href="tel://1234567920">05365-05470</a></li>
@@ -30,7 +30,7 @@
 
 				</div>
 				<div class="col-md-6 animate-box">
-					<h3>Get In Touch</h3>
+					<h3>Contactez-Nous</h3>
 					<form method="POST" action="contact-us.php">
 						<div class="row form-group">
 							<div class="col-md-6">
@@ -64,7 +64,7 @@
 							</div>
 						</div>
 						<div class="form-group">
-							<input type="submit" value="Send Message" name="enregistrer" class="btn btn-primary">
+							<input type="submit" value="Envoyer" name="enregistrer" class="btn btn-primary">
 						</div>
 
 					</form>		

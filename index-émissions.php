@@ -79,7 +79,7 @@
                                 <div class="desc">
                                     <h3><a href="./ensaouites.php">Ensaoistes du monde</a></h3>
                                     <p>Le but de cette émission sera de promouvoir le poids du réseau des ENSAOistes en explicitant la portée dudit réseau, ainsi que de prouver aux étudiants de I'ENSAO que leurs prédécesseurs ont atteint des objectifs qu'ils ne soupçonnaient même pas.</p>
-                                    <span><a href="./ensaouites.php" class="btn btn-primary btn-sm btn-course">decouvrez Ensaouistes du monde</a></span>
+                                    <span><a href="./ensaouites.php" class="btn btn-primary btn-sm btn-course">decouvrez Ensaoistes du monde</a></span>
                                 </div>
                             </div>
                         </div>
