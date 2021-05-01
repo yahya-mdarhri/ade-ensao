@@ -49,7 +49,7 @@
                     </li>
                     <li class="has-dropdown"><a href="./index-partenaires.php">partenaires</a>
                             <ul class="dropdown">
-                                <li><a href="./alensao.php">ALENSAO</a></li>
+                                <li><a href="https://alensao.com/">ALENSAO</a></li>
                                 <li><a href="./adhoc.php">AD.HOC</a></li>
                             </ul>
                         </li>
