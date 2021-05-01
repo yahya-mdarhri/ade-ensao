@@ -75,7 +75,7 @@ Nos missions :
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/DefenSyS-removebg-preview.mp4" frameborder="0"
                             allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"

@@ -243,7 +243,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                 <div class="row text-center">
                     <h2><span>Gallery</span></h2>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/ouverture1.jpg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -255,7 +255,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                     </div>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/eugo7.jpeg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -267,7 +267,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                     </div>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/foot.jpg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -279,7 +279,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                     </div>
                 </div> 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/ultras.jpg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -292,7 +292,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                 </div>    
 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/ball.jpg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -308,7 +308,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                 </div>   
                 <br>
 
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/123.mp4" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

@@ -189,7 +189,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/indus.mp4" frameborder="0"
                             allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -197,7 +197,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                     </div> 
                     <br>
                 <hr>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/I1.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -210,7 +210,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                     
                 </div> 
                 <hr>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a class="gallery" style="background-image: url(images/I4.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -224,7 +224,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                 </div>    
 
                 <hr>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/I7.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -235,7 +235,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                         <a  class="gallery" style="background-image: url(images/I9.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
                 </div>    
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/I10.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -247,7 +247,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                     </div>
                 </div>
                 <hr>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/I13.jpg);background-size : 100%; background-position : center;"></a>
                     </div>

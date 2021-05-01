@@ -142,7 +142,7 @@
                 <div class="row text-center">
                     <h2><span>Gallery</span></h2>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-3 ">
                         <a  class="gallery" style="background-image: url(images/SP7.jpg);background-size : 100%; background-position : center;transition: transform .2s;"></a>
                     </div>
@@ -157,7 +157,7 @@
                     </div>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-3 ">
                         <a  class="gallery" style="background-image: url(images/SP5.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -175,7 +175,7 @@
                 <br>
                 <hr>
 
-                <div class="row">
+               <!-- <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/.m4v" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -183,7 +183,7 @@
                     </div> 
                
             </div>
-
+-->
 
 
 

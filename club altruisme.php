@@ -153,7 +153,7 @@ C’est aussi, le club altruisme, une école qui vous apprend que l’altruisme 
                 <div class="row text-center">
                     <h2><span>Gallery</span></h2>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4 ">
                         <a  class="gallery" style="background-image: url(images/veo23.jpg);"></a>
                     </div>
@@ -166,7 +166,7 @@ C’est aussi, le club altruisme, une école qui vous apprend que l’altruisme 
                     
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                      <div class="col-md-4 ">
                         <a  class="gallery" style="background-image: url(images/veo24.jpg);"></a>
                     </div>
@@ -179,7 +179,7 @@ C’est aussi, le club altruisme, une école qui vous apprend que l’altruisme 
                    
                 </div> 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                 <div class="col-md-4 ">
                         <a  class="gallery" style="background-image: url(images/veo27.jpg);"></a>
                     </div>
@@ -190,7 +190,7 @@ C’est aussi, le club altruisme, une école qui vous apprend que l’altruisme 
                 <br>
                 <hr>
 
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/altruisme.m4v" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

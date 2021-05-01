@@ -164,7 +164,7 @@
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <!--.<div class="row">
+                <!--.<div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/futur.mp4" frameborder="0"
                             allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -173,7 +173,7 @@
 -->
                     <br>
                     <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-3 col-padded">
                         <a  class="gallery" style="background-image: url(images/bal.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -188,7 +188,7 @@
                     </div>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-3 col-padded">
                         <a  class="gallery" style="background-image: url(images/bal5.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -203,7 +203,7 @@
                     </div>
                 </div> 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-3 col-padded">
                         <a  class="gallery" style="background-image: url(images/bal9.jpg);background-size : 100%; background-position : center;"></a>
                     </div>

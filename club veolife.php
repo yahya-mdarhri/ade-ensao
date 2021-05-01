@@ -285,7 +285,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/veolife.mp4" frameborder="0"
                             allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -293,7 +293,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                     </div> 
                     <br>
                     <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/veo1.jfif);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -306,7 +306,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                   
                 </div>
                 <br>
-                <div class="row"> 
+                <div class="row" style="margin-left: 20px;margin-right: 20px;"> 
                      <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/veo4.jfif);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -319,7 +319,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                    
                 </div> 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                      <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/veo7.jfif);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -331,7 +331,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                     </div>
                     </div>
                     <br>
-                    <div class="row">
+                    <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/veo10.jfif);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
@@ -344,7 +344,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                 </div>    
 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/veo13.jfif);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>

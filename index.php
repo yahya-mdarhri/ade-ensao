@@ -162,7 +162,7 @@ Dans ce cadre nous avons décidé de nous ouvrir au monde extérieur, car notre 
            
 
 
-            <div style="padding-top : 10px;padding-bottom : 10px">
+            <div style="padding-top : 10px;padding-bottom : 10px;margin-left: 20px;margin-right: 20px;">
                 <div class="container">
                     <div class="row animate-box">
                         <div class="">

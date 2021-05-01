@@ -188,7 +188,7 @@ Le club ENACTUS ENSAO est aussi actif aux niveaux des réalisations des projets�
 					<p>time to innovate</p>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row" style="margin-left: 20px;margin-right: 20px;">
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
 						<a class="blog-img-holder" style="background-image: url(images/ecorelogo.jpg);background-size : 100%; background-position : center;"></a>
@@ -273,7 +273,7 @@ Donc ce projet a pour but d’intégrer ces femmes dans le marché  en représen
                 <div class="row text-center">
                     <h2><span>Gallery</span></h2>
                 </div>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/EN1.jpg);background-size : 100%; background-position : center;"></a>
                     </div>
@@ -286,7 +286,7 @@ Donc ce projet a pour but d’intégrer ces femmes dans le marché  en représen
                     </div>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/EN6.jpg);background-size : 100%; background-position : center;"></a>
                     </div>

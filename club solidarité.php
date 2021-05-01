@@ -261,7 +261,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="screen embed-responsive embed-responsive-16by9">
                         <iframe id="screen" src="video/solidarity.mp4" frameborder="0"
                             allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
@@ -269,7 +269,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                     </div> 
                     <br>
                     <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/caravane.jpeg);background-size : 100%; background-position : center;background-size : cover;"></a>
                     </div>
@@ -282,7 +282,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                    
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/caravane4.jpg);background-size : 100%; background-position : center;background-size : cover;"></a>
                     </div>
@@ -295,7 +295,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                    
                 </div> 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/foota2.jpg);background-size : 100%; background-position : center;background-size : cover;"></a>
                     </div>
@@ -309,7 +309,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                 </div>    
 
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/ultrasa1.jpg);background-size : 100%; background-position : center;background-size : cover;"></a>
                     </div>
@@ -322,7 +322,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                     
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                 <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/balla.jpg);background-size : 100%; background-position : center;background-size : cover;"></a>
                     </div>
@@ -336,7 +336,7 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
                     
                 </div>
                 <br>
-                <div class="row">
+                <div class="row" style="margin-left: 20px;margin-right: 20px;">
                 <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/balla3.jpg);background-size : 100%; background-position : center;background-size : cover;"></a>
                     </div>

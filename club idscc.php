@@ -110,7 +110,7 @@ Parmi les missions qu'apporte ce club : assurer des évènements, des webinaires
 					<p>Parmi les missions qu'apporte ce club : assurer des évènements, des webinaires, des formations et des conférences assurées par des formateurs et des intervenants qui seront principalement spécialistes dans les domaines du data et cloud, et d'autres activités pour rapprocher les étudiants de notre domaine.</p>
 				</div>
 			</div>
-			<div class="row">
+			<div class="row" style="margin-left: 20px;margin-right: 20px;">
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
 						<a class="blog-img-holder" style="background-image: url(images/GENERIQUE.jpg);background-size : 100%;background-size:cover; background-position : center;"></a>
@@ -158,7 +158,7 @@ Le salarié présenté par Mr ANAS BOURHLEM et Mr AMAR El AZZOUZY
         
         
 
-    <div class="screen embed-responsive embed-responsive-16by9">
+    <div class="screen embed-responsive embed-responsive-16by9" style="margin-left: 20px;margin-right: 20px;">
                         <iframe id="screen" src="video/idscc.mp4" frameborder="0"
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
