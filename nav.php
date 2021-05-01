@@ -4,7 +4,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xs-2">
-                    <div id="logo"><a href="index.php"><img src="images/adew.png" width="180" height="110"></a></div>
+                    <div id="logo"><a href="index.php"><img src="images/adew.png" width="200" height="120"></a></div>
                 </div>
                 <br> 
                 <div class="col-xs-10 text-right menu-1 " >
