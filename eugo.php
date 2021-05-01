@@ -302,6 +302,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                     <div class="col-md-4 col-padded">
                         <a  class="gallery" style="background-image: url(images/ball2.jpg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
+                    <br>
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/ball3.jpeg);background-size : 100%; background-position : center;background-size:cover;"></a>
                     </div>
