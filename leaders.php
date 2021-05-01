@@ -62,7 +62,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/lbour.jpeg);border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/youssef.yof"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/youssseeef/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -77,7 +77,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/jiji.jpg);border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/profile.php?id=100004838088659"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/jihane.benbrik/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -91,7 +91,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/1.jpg);border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/jumana.moorabella"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/mh_hadil/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -105,7 +105,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/younes.jpeg);border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         
                                     </ul>
@@ -116,7 +116,7 @@
                         </div>
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/mdarhri.jpg);border-radius: 20px;background-position : center;background-size:cover;box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+                                <div class="staff-img" style="background-image: url(images/mdarhri.jpg);border-radius: 20px;background-position : center;background-size:cover;box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/yahya.mdarhri.7"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/yahyamdarhri/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -130,7 +130,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/pp.jpg);background-size : 100%; background-position : center;border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/khadija.arbaoui.01"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/laaast_sunrise/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -144,7 +144,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/mouhcine.jpg);border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/cinellaou"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.linkedin.com/in/mouhcine-assellaou-211b43192/"target="_blank "><i class="icon-linkedin2"></i></a></li>
@@ -157,7 +157,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/ayoub.jpg);border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/medayoub.elmaftouhi"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/medayb.elmaftouhi/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -171,7 +171,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/aminakadi.jpeg);background-size : 100%; background-position : center;border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/amina.elkadi.988"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/aphrodiiite._/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -186,7 +186,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/ihab.jpg);background-size : 100%; background-position : center;border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/ihab.biziz"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/ihab.biziz/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -199,7 +199,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/douhi.jpg);background-size : 100%; background-position : center;border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/douhi.douhi"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="#https://www.instagram.com/douhi_yassine/"target="_blank "><i class="icon-instagram"></i></a></li>
@@ -213,7 +213,7 @@
                         <div class="col-md-3 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/adnane.jpg);background-size : 100%; background-position : center;border-radius: 20px;background-position : center;background-size:cover; 
-  box-shadow: 0 19px 51px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 14px 19px 0 rgba(0,0,0,0.07);">
                                     <ul class="fh5co-social">
                                         <li><a href="https://www.facebook.com/el.adnane.73"target="_blank "><i class="icon-facebook2"></i></a></li>
                                         <li><a href="https://www.instagram.com/adnane.elkhatibe/"target="_blank "><i class="icon-instagram"></i></a></li>
