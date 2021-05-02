@@ -193,7 +193,7 @@
                                     </ul>
                                 </div>
                                 <span>designer</span>
-                                <h3 style="text-transform : capitalize;">ihab iziz</h3>
+                                <h3 style="text-transform : capitalize;">ihab biziz</h3>
                             </div>
                         </div>
                         <div class="col-md-3 animate-box text-center">

@@ -67,11 +67,11 @@
                                 <a class="course-img" style="background-image: url(images/alensao.png);background-size : 100%; background-position : center;">
                                 </a>
                                 <div class="desc">
-                                    <h3><a href="https://alensao.com/">ALENSAO</a></h3>
+                                    <h3><a href="https://alensao.com/" target="_blank">ALENSAO</a></h3>
                                     <p>L'association des Lauréats de l'ENSAO se veut le lien entre les étudiants et les lauréats de l'école, à travers ses activités, ses partenariats et son vaste réseau de relations, elle facilite la transition du monde académique vers le monde du travail aux nouveaux lauréats.
 
                                     </p>
-                                    <span><a href="https://alensao.com/" class="btn btn-primary btn-sm btn-course">découvrir ALENSAO</a></span>
+                                    <span><a href="https://alensao.com/" target="_blank" class="btn btn-primary btn-sm btn-course">découvrir ALENSAO</a></span>
                                 </div>
                             </div>
                         </div>
