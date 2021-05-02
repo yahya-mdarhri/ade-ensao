@@ -75,19 +75,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 animate-box">
-                            <div class="course">
-                                <a class="course-img" style="background-image: url(images/adhoclogo.jpg);">
-                                </a>
-                                <div class="desc">
-                                    <h3><a href="./adhoc.php">AD.HOC</a></h3>
-                                    <p>L'objectif principal de ce comité est d'œuvrer sur la multitude d'événements et de projets incluant les deux associations. 
-
-                                    </p>
-                                    <span><a href="./adhoc.php" class="btn btn-primary btn-sm btn-course">découvrir AD.HOC</a></span>
-                                </div>
-                            </div>
-                        </div>
+                       
                        
                     </div>
                </div>
