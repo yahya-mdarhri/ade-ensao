@@ -34,7 +34,7 @@
                                <div class="row">
                                    <div class="col-md-8 col-md-offset-2 text-center slider-text">
                                        <div class="slider-text-inner">
-                                       <h1 style="text-transform:capitalize;">école nationale des sciences appliquées de oujda</h1>
+                                       <h1 style="text-transform:capitalize;">école nationale des sciences appliquées d' oujda</h1>
                                        </div>
                                    </div>
                                </div>
