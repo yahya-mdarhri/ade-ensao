@@ -17,7 +17,6 @@
             <?php include("nav.php"); ?>
 
 
-<hr>
             <div>
                 <img src="images/sics.png" class="responsive">
             </div>
