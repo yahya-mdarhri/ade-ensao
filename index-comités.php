@@ -61,7 +61,7 @@
                         </div>
                     </div>
                     <div class="row"> 
-                    <div class="col-md-6 animate-box">
+                        <div class="col-md-6 animate-box">
                             <div class="course">
                                 <a class="course-img" style="background-image: url(images/adhoclogo.jpg);">
                                 </a>
