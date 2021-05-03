@@ -42,7 +42,7 @@
                             <li><a href="./eugo.php">EUGO</a></li>
                             <li><a href="./FORUM.php">FORUM</a></li>
                         </ul>
-                    </li>
+                    </li> 
                     <li class="has-dropdown"><a href="./index-émissions.php">émissions</a><ul class="dropdown">
                             <li><a href="./ensaouites.php">Ensaoistes du monde</a></li>
                             <li><a href="./klam2.0.php">KLAM-2.0</a></li>
@@ -50,7 +50,7 @@
                     </li>
                     <li class="has-dropdown"><a href="./index-partenaires.php">partenaires</a>
                             <ul class="dropdown">
-                                <li><a href="https://alensao.com/">ALENSAO</a></li>
+                                <li><a href="https://alensao.com/" target="_blank">ALENSAO</a></li>
                             </ul>
                         </li>
                         <li class="btn-cta"><a href="contact.php"><span>contactez-nous</span></a></li>
