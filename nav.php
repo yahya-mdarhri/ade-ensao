@@ -38,7 +38,7 @@
                         </ul>
                     </li>
                         <li class="has-dropdown"><a href="./index-comités.php">comités</a><ul class="dropdown">
-                            <li><a href="./adhoc.php">AD.HOC</a></li>
+                            <li><a href="./adhoc.php">AD-HOC</a></li>
                             <li><a href="./eugo.php">EUGO</a></li>
                             <li><a href="./FORUM.php">FORUM</a></li>
                         </ul>
