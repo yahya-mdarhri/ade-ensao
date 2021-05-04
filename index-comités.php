@@ -88,7 +88,7 @@
                         </div>
                         <div class="col-md-6 animate-box">
                             <div class="course">
-                                <a class="course-img" style="background-image: url(images/forumlogo.jpg);">
+                                <a class="course-img" style="background-image: url(images/forumlogo.jpg);background-size : 100%; background-position : center;background-position : cover;">
                                 </a>
                                 <div class="desc">
                                     <h3><a href="./FORUM.php">FORUM</a></h3>
