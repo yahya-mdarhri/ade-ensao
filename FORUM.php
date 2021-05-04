@@ -161,16 +161,14 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 </div>
                                 <span>président</span>
                                 <h3>Adnane EL KHATIB</h3>
-                                <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
                             </div>
                         </div>
-                        <div class="col-md-4 animate-box text-center">
+                        <div class="col-md-3 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/.jpg);">
+                                <div class="staff-img" style="background-image: url(images/ayoub.jpg);">
                                 </div>
-                                <span>vice-président</span>
-                                <h3><a href="#">fattouch bent boujm3a</a></h3>
-                                <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
+                                <span>responsable de communication</span>
+                                <h3 style="text-transform : capitalize;">Mohammed-ayoub maftouhi</h3>
                             </div>
                         </div>
                         <div class="col-md-4 animate-box text-center">
@@ -178,8 +176,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 <div class="staff-img" style="background-image: url(images/.jpg);">
                                 </div>
                                 <span>secrétaire general</span>
-                                <h3><a href="#">bouchta lkbir</a></h3>
-                                <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
+                                <h3>>Salma Bitari</h3>
                             </div>
                         </div>
                        
