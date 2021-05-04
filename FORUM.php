@@ -163,7 +163,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 <h3>Adnane EL KHATIB</h3>
                             </div>
                         </div>
-                        <div class="col-md-3 animate-box text-center">
+                        <div class="col-md-4 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/ayoub.jpg);">
                                 </div>
@@ -176,7 +176,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 <div class="staff-img" style="background-image: url(images/.jpg);">
                                 </div>
                                 <span>secrétaire general</span>
-                                <h3>>Salma Bitari</h3>
+                                <h3>Salma Bitari</h3>
                             </div>
                         </div>
                        
