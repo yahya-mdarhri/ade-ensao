@@ -44,6 +44,73 @@
 
 
 
+            <div id="fh5co-course-categories">
+                <div class="container">
+                    <div class="row animate-box">
+                        <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+                            <h2>FORUM D'ENTREPRISES</h2>
+                            <p>Le forum ENSAO Entreprises est un comité indispensable pour une école d'ingénieurs, qui permet de rapprocher le monde de l'entreprise aux étudiants et vice versa tout en créant un échange d'informations entre les deux.
+Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses participants puisqu'il constitue une plate-forme d'échange et une porte d'accès ouverte. Il a également pour ambition de rassembler des professionnels de secteurs divers, les élèves ingénieurs ainsi que les diplômés des différentes filières, qui sont aussi informés de la tenue du FEE et peuvent y participer afin de donner une nouvelle orientation à leurs carrières.
+</p>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 text-center animate-box">
+                            <div class="services">
+                                <span class="icon">
+                                <i class="fas fa-palette"></i>
+                                </span>
+                                <div class="desc">
+                                    <h3 style="text-transform : capitalize;">Participer au développement régional et national</h3>>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 text-center animate-box">
+                            <div class="services">
+                                <span class="icon">
+                                <i class="far fa-futbol"></i>
+                                </span>
+                                <div class="desc">
+                                    <h3 style="text-transform : capitalize;">développez votre réseau professionnel</h3>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 text-center animate-box">
+                            <div class="services">
+                                <span class="icon">
+                                <i class="fas fa-utensils"></i>
+                                </span>
+                                <div class="desc">
+                                    <h3 style="text-transform : capitalize;">Garantir un gain de temps comparé au processus de recrutement classique.</h3>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6 text-center animate-box">
+                            <div class="services">
+                                <span class="icon">
+                                    <i class="icon-banknote"></i>
+                                </span>
+                                <div class="desc">
+                                    <h3 style="text-transform : capitalize;">cellule de sponsoring</h3>
+                                    <p>tirer profit de produit ENSAOISTE en recrutant les cadres de demain.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
 
             <div id="fh5co-counter" class="fh5co-counters" style="background-image: url(images/FORUMBANNER.jpg);" data-stellar-background-ratio="0.5">
                 <div class="overlay"></div>
