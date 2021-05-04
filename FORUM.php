@@ -92,8 +92,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                     <i class="icon-banknote"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3 style="text-transform : capitalize;">cellule de sponsoring</h3>
-                                    <p>tirer profit de produit ENSAOISTE en recrutant les cadres de demain.</p>
+                                    <h3 style="text-transform : capitalize;">tirer profit de produit ENSAOISTE en recrutant les cadres de demain.</h3>
                                 </div>
                             </div>
                         </div>
