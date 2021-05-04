@@ -88,7 +88,7 @@
                         </div>
                         <div class="col-md-6 animate-box">
                             <div class="course">
-                                <a class="course-img" style="background-image: url(images/project-1.jpg);">
+                                <a class="course-img" style="background-image: url(images/forumlogo.jpg);">
                                 </a>
                                 <div class="desc">
                                     <h3><a href="./FORUM.php">FORUM</a></h3>
@@ -98,22 +98,6 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-6 animate-box">
-                            <div class="course">
-                                <a class="course-img" style="background-image: url(images/project-4.jpg);">
-                                </a>
-                                <div class="desc">
-                                    <h3><a href="/remise%20des%20diplomes.php">remise des diplomes</a></h3>
-                                    <p>description des remises des diplomes
-                                        aaaaaaaaaaaaaaaaaaaa
-                                        aaaaaaaaaaaaaaaaaaaaa
-                                        aaaaaaaaaaaaaaaaaaaaaa
-                                        aaaaaaaaaaaaaaaaaaaaaa
-                                        aaaaaaaaaaaaaaaaaaaaaaa
-                                        aaaaaaaaaaaaaaaaaaaaaaaaa</p>
-                                    <span><a href="/remise%20des%20diplomes.php" class="btn btn-primary btn-sm btn-course">decouvrez la remise des diplomes</a></span>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
