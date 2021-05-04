@@ -154,7 +154,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
             <div id="fh5co-staff">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-3 animate-box text-center">
+                        <div class="col-md-4 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/adnane.jpg);">
                         
@@ -164,7 +164,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
                             </div>
                         </div>
-                        <div class="col-md-3 animate-box text-center">
+                        <div class="col-md-4 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/.jpg);">
                                 </div>
@@ -173,7 +173,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
                             </div>
                         </div>
-                        <div class="col-md-3 animate-box text-center">
+                        <div class="col-md-4 animate-box text-center">
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/.jpg);">
                                 </div>
@@ -182,15 +182,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                                 <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
                             </div>
                         </div>
-                        <div class="col-md-3 animate-box text-center">
-                            <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/.jpg);">
-                                </div>
-                                <span>trésorier</span>
-                                <h3><a href="#">abmoula</a></h3>
-                                <p>Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi.</p>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
