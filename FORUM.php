@@ -17,16 +17,13 @@
         <div id="page">
             <?php include("nav.php"); ?>
 
-            <div>
-                <img src="images/FORUMBANNER.jpg" class="responsive">
-            </div>
 
 
 
             <aside id="fh5co-hero">
                 <div class="flexslider">
                     <ul class="slides">
-                       <li style="background-image: url(images/forum1.jpg);">
+                       <li style="background-image: url(images/forum3.jpeg);">
                            <div class="overlay-gradient"></div>
                            <div class="container">
                                <div class="row">
@@ -37,35 +34,6 @@
                                </div>
                            </div>
                        </li>
-                       <li style="background-image: url(images/img_bg_2.jpg);">
-                           <div class="overlay-gradient"></div>
-                           <div class="container">
-                               <div class="row">
-                                   <div class="col-md-8 col-md-offset-2 text-center slider-text">
-                                       <div class="slider-text-inner">
-                                           <h1>evenement</h1>
-                                            <h2>Brought to you by <a href="#" target="_blank">???????</a></h2>
-                                            <p><a class="btn btn-primary btn-lg btn-learn" href="#">visitez-nous</a></p>
-                                       </div>
-                                   </div>
-                               </div>
-                           </div>
-                       </li>
-                       <li style="background-image: url(images/img_bg_3.jpg);">
-                        <div class="overlay-gradient"></div>
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-8 col-md-offset-2 text-center slider-text">
-                                    <div class="slider-text-inner">
-                                        <h1>evenement</h1>
-                                         <h2>Brought to you by <a href="#" target="_blank">???????</a></h2>
-                                         <p><a class="btn btn-primary btn-lg btn-learn" href="#">visitez-nous</a></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </li>		   	
-           	   	
                     </ul>
                 </div>
             </aside>
