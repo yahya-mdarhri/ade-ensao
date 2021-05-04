@@ -58,17 +58,17 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                         <div class="col-md-3 col-sm-6 text-center animate-box">
                             <div class="services">
                                 <span class="icon">
-                                <i class="fas fa-palette"></i>
+                                <i class="fas fa-hands-helping"></i>
                                 </span>
                                 <div class="desc">
-                                    <h3 style="text-transform : capitalize;">Participer au développement régional et national</h3>>
+                                    <h3 style="text-transform : capitalize;">Participer au développement régional et national</h3>
                                 </div>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-6 text-center animate-box">
                             <div class="services">
                                 <span class="icon">
-                                <i class="far fa-futbol"></i>
+                                <i class="fas fa-user-tie"></i>
                                 </span>
                                 <div class="desc">
                                     <h3 style="text-transform : capitalize;">développez votre réseau professionnel</h3>
@@ -79,7 +79,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                         <div class="col-md-3 col-sm-6 text-center animate-box">
                             <div class="services">
                                 <span class="icon">
-                                <i class="fas fa-utensils"></i>
+                                <i class="fas fa-clock"></i>
                                 </span>
                                 <div class="desc">
                                     <h3 style="text-transform : capitalize;">Garantir un gain de temps comparé au processus de recrutement classique.</h3>
@@ -89,7 +89,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                         <div class="col-md-3 col-sm-6 text-center animate-box">
                             <div class="services">
                                 <span class="icon">
-                                    <i class="icon-banknote"></i>
+                                <i class="fas fa-user-circle"></i>
                                 </span>
                                 <div class="desc">
                                     <h3 style="text-transform : capitalize;">tirer profit de produit ENSAOISTE en recrutant les cadres de demain.</h3>
