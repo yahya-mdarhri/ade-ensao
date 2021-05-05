@@ -27,7 +27,7 @@ L'ADE est un organisme qui regroupe chaque année 1000 étudiants, car chaque é
                             </ul>
                         </div>
                         <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
-                            <a href="./index-émissions.php"><h3>Emissions</h3></a>
+                            <a href="./index-émissions.php"><h3>émissions</h3></a>
                             <ul class="fh5co-footer-links">
                                 
                                 <li><a href="./ensaouites.php">Ensaoistes du monde</a></li>
