@@ -167,7 +167,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                             <div class="staff">
                                 <div class="staff-img" style="background-image: url(images/ayoub.jpg);">
                                 </div>
-                                <span>responsable de communication</span>
+                                <span>vice-président</span>
                                 <h3 style="text-transform : capitalize;">Mohammed-ayoub maftouhi</h3>
                             </div>
                         </div>
