@@ -18,7 +18,7 @@
         <div id="page">
             <?php include("nav.php"); ?>
 
-            <hr>
+           
 
             <aside id="fh5co-hero">
                 <div class="flexslider">

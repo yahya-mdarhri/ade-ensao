@@ -19,7 +19,6 @@
 
 
 
-            <hr>
             <div>
                 <img src="images/idscc.png" class="responsive">
             </div>
