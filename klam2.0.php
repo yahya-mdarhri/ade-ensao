@@ -62,21 +62,21 @@
 <br> 
         <div>
             <div class="owl-carousel owl-theme" id="slider3">
+              
+             
                 <div class="item px-2">
                     <div class="fh5co_hover_news_img">
                         <div class="fh5co_hover_news_img_video_tag_position_relative">
                             <div class="fh5co_news_img">
-                                <iframe id="video" width="100%" height="200"
-                                        src="https://www.youtube.com/embed/JRQk1j21H48"
+                                <iframe id="video_3" width="100%" height="200"
+                                        src="https://www.youtube.com/embed/8VyY2splB0Y"
                                         frameborder="0" allowfullscreen></iframe>
                             </div>
-                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide" id="play-video">
-                                <div class="fh5co_hover_news_img_video_tag_position_absolute_1_play_button_1">
-                                </div>
+                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide_3" id="play-video_3">
                             </div>
                         </div>
                         <div class="pt-2">
-                            <div class="c_g">EP3: Pr Khalid SERRAJ </div>
+                            <div class="c_g">EP1: Pr FARID EL HEBIL</div>
                         </div>
                     </div>
                 </div>
@@ -100,19 +100,20 @@
                     <div class="fh5co_hover_news_img">
                         <div class="fh5co_hover_news_img_video_tag_position_relative">
                             <div class="fh5co_news_img">
-                                <iframe id="video_3" width="100%" height="200"
-                                        src="https://www.youtube.com/embed/8VyY2splB0Y"
+                                <iframe id="video" width="100%" height="200"
+                                        src="https://www.youtube.com/embed/JRQk1j21H48"
                                         frameborder="0" allowfullscreen></iframe>
                             </div>
-                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide_3" id="play-video_3">
+                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide" id="play-video">
+                                <div class="fh5co_hover_news_img_video_tag_position_absolute_1_play_button_1">
+                                </div>
                             </div>
                         </div>
                         <div class="pt-2">
-                            <div class="c_g">EP1: Pr FARID EL HEBIL</div>
+                            <div class="c_g">EP3: Pr Khalid SERRAJ </div>
                         </div>
                     </div>
                 </div>
-                
                 </div>
             </div>
         </div>
