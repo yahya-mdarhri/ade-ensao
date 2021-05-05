@@ -63,6 +63,23 @@ Le but de cette émission sera de promouvoir le poids du réseau des ENSAOistes 
 <br> 
         <div>
             <div class="owl-carousel owl-theme" id="slider3">
+               
+                <div class="item px-2">
+                    <div class="fh5co_hover_news_img">
+                        <div class="fh5co_hover_news_img_video_tag_position_relative">
+                            <div class="fh5co_news_img">
+                                <iframe id="video_2" width="100%" height="200"
+                                        src="https://www.youtube.com/embed/mbNJrFc3BQs"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide_2" id="play-video_2">
+                            </div>
+                        </div>
+                        <div class="pt-2">
+                            <div class="c_g">Kouassi Serge Brice<br>Promotion 2006<br>Génie Télécommunication et réseau</div>
+                        </div>
+                    </div>
+                </div>
                 <div class="item px-2">
                     <div class="fh5co_hover_news_img">
                         <div class="fh5co_hover_news_img_video_tag_position_relative">
@@ -78,22 +95,6 @@ Le but de cette émission sera de promouvoir le poids du réseau des ENSAOistes 
                         </div>
                         <div class="pt-2">
                             <div class="c_g">Mourad MZIOUT<br>Promotion 2007<br>Génie Informatique</div>
-                        </div>
-                    </div>
-                </div>
-                <div class="item px-2">
-                    <div class="fh5co_hover_news_img">
-                        <div class="fh5co_hover_news_img_video_tag_position_relative">
-                            <div class="fh5co_news_img">
-                                <iframe id="video_2" width="100%" height="200"
-                                        src="https://www.youtube.com/embed/mbNJrFc3BQs"
-                                        frameborder="0" allowfullscreen></iframe>
-                            </div>
-                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide_2" id="play-video_2">
-                            </div>
-                        </div>
-                        <div class="pt-2">
-                            <div class="c_g">Kouassi Serge Brice<br>Promotion 2006<br>Génie Télécommunication et réseau</div>
                         </div>
                     </div>
                 </div>
