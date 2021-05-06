@@ -193,7 +193,7 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
             <div class="container">
                     <div class="row animate-box">
                         <div class="iframe-container">
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ktZZ2DH-28Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/lZqzGbHgMWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                         </div>
                     </div>
             </div>  
