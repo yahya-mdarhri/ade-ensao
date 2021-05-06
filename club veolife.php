@@ -285,13 +285,14 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <div class="row" style="margin-left: 20px;margin-right: 20px;">
-                    <div class="screen embed-responsive embed-responsive-16by9">
-                        <iframe id="screen" src="video/veolife.mp4" frameborder="0"
-                            allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </div> 
-                    <br>
+            <br>
+            <div class="container">
+                    <div class="row animate-box">
+                        <div class="iframe-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ktZZ2DH-28Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+            </div>  
                     <br>
                 <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">

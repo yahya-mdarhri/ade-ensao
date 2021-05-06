@@ -189,14 +189,14 @@ Le but ultime derrière la création du Club Industriel est de renforcer le sent
                     <h2><span>Gallery</span></h2>
                 </div>
                 <br>
-                <div class="row" style="margin-left: 20px;margin-right: 20px;">
-                    <div class="screen embed-responsive embed-responsive-16by9">
-                        <iframe id="screen" src="video/indus.mp4" frameborder="0"
-                            allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </div> 
-                    <br>
-                <hr>
+            <br>
+            <div class="container">
+                    <div class="row animate-box">
+                        <div class="iframe-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ktZZ2DH-28Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+            </div>  
                 <div class="row" style="margin-left: 20px;margin-right: 20px;">
                     <div class="col-md-4">
                         <a  class="gallery" style="background-image: url(images/I1.jpg);background-size : 100%; background-position : center;"></a>

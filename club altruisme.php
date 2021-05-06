@@ -187,24 +187,18 @@ C’est aussi, le club altruisme, une école qui vous apprend que l’altruisme 
                         <a class="gallery" style="background-image: url(images/veo20.jpg);"></a>
                     </div>
                     </div> 
-                <br>
-                <hr>
-
-                <div class="row" style="margin-left: 20px;margin-right: 20px;">
-                    <div class="screen embed-responsive embed-responsive-16by9">
-                        <iframe id="screen" src="video/altruisme.m4v" frameborder="0"
-                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
-                    </div> 
-               
             </div>
 
 
-
-
-
-
-            <hr>
+            <br>
+            <br>
+            <div class="container">
+                    <div class="row animate-box">
+                        <div class="iframe-container">
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/ktZZ2DH-28Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                    </div>
+            </div>  
 
 
 
