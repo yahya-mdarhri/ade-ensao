@@ -260,7 +260,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
 				</div>
 				<div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a class="blog-img-holder" style="background-image: url(images/veo8.jfif); background-size : 100%; background-position : center;"></a>
+						<a class="blog-img-holder" style="background-image: url(images/sortieinteg.jpeg); background-size : 100%; background-position : center;"></a>
 						<div class="blog-text">
 							<h3>SORTIE D'INTEGRATION</h3>
 							<span class="posted_on">march. 20th</span>
