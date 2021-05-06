@@ -76,44 +76,6 @@
 
 
 
-
-
-            <div id="fh5co-counter" class="fh5co-counters" style="background-image: url(images/solidar.jpg);background-size : 100%; background-position : center;" data-stellar-background-ratio="0.5">
-                <div class="overlay"></div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-10 col-md-offset-1">
-                            <div class="row">
-                                <div class="col-md-3 col-sm-6 text-center animate-box">
-                                    <span class="icon"><i class="icon-location"></i></span>
-                                    <span class="fh5co-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></span>
-                                    <span class="fh5co-counter-label">déplacements</span>
-                                </div>
-                                <div class="col-md-3 col-sm-6 text-center animate-box">
-                                    <span class="icon"><i class="icon-head"></i></span>
-                                    <span class="fh5co-counter js-counter" data-from="0" data-to="43" data-speed="5000" data-refresh-interval="50"></span>
-                                    <span class="fh5co-counter-label">membres</span>
-                                </div>
-                                <div class="col-md-3 col-sm-6 text-center animate-box">
-                                    <span class="icon"><i class="icon-study"></i></span>
-                                    <span class="fh5co-counter js-counter" data-from="0" data-to="75" data-speed="5000" data-refresh-interval="50"></span>
-                                    <span class="fh5co-counter-label">lauréats</span>
-                                </div>
-                                <div class="col-md-3 col-sm-6 text-center animate-box">
-                                    <span class="icon"><i class="fas fa-first-aid"></i></span>
-                                    <span class="fh5co-counter js-counter" data-from="0" data-to="880" data-speed="5000" data-refresh-interval="50"></span>
-                                    <span class="fh5co-counter-label">donneurs de sang</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-
             
 
             <div id="fh5co-course-categories">
@@ -181,7 +143,37 @@ On vous laisse avec  un avant gout de nos événements au sein du club. Restez b
 
 
            
-
+            <div id="fh5co-counter" class="fh5co-counters" style="background-image: url(images/solidar.jpg);background-size : 100%; background-position : center;" data-stellar-background-ratio="0.5">
+                <div class="overlay"></div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-10 col-md-offset-1">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6 text-center animate-box">
+                                    <span class="icon"><i class="icon-location"></i></span>
+                                    <span class="fh5co-counter js-counter" data-from="0" data-to="10" data-speed="5000" data-refresh-interval="50"></span>
+                                    <span class="fh5co-counter-label">déplacements</span>
+                                </div>
+                                <div class="col-md-3 col-sm-6 text-center animate-box">
+                                    <span class="icon"><i class="icon-head"></i></span>
+                                    <span class="fh5co-counter js-counter" data-from="0" data-to="43" data-speed="5000" data-refresh-interval="50"></span>
+                                    <span class="fh5co-counter-label">membres</span>
+                                </div>
+                                <div class="col-md-3 col-sm-6 text-center animate-box">
+                                    <span class="icon"><i class="icon-study"></i></span>
+                                    <span class="fh5co-counter js-counter" data-from="0" data-to="75" data-speed="5000" data-refresh-interval="50"></span>
+                                    <span class="fh5co-counter-label">lauréats</span>
+                                </div>
+                                <div class="col-md-3 col-sm-6 text-center animate-box">
+                                    <span class="icon"><i class="fas fa-first-aid"></i></span>
+                                    <span class="fh5co-counter js-counter" data-from="0" data-to="880" data-speed="5000" data-refresh-interval="50"></span>
+                                    <span class="fh5co-counter-label">donneurs de sang</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 
