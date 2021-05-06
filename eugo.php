@@ -72,8 +72,6 @@
 
 
 
-            <hr>
-
 
             
             <div id="fh5co-course-categories">
@@ -178,7 +176,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
                 </div>
             </div>
 
-            <hr>
+           
 
             <div id="fh5co-counter" class="fh5co-counters" style="background-image: url(images/eugoban.png);background-size : 100%; background-position : center;" data-stellar-background-ratio="0.5">
                 <div class="overlay"></div>
@@ -224,7 +222,7 @@ Et aussi assurer la diffusion de les informations via la presse et les medias</p
         
 
 
-            <hr>
+           
 
 
 
