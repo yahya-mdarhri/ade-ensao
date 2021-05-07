@@ -173,7 +173,7 @@ Ce forum est si important qu'il est devenu une occasion annuelle pour tous ses p
                         </div>
                         <div class="col-md-4 animate-box text-center">
                             <div class="staff">
-                                <div class="staff-img" style="background-image: url(images/.jpg);">
+                                <div class="staff-img" style="background-image: url(images/bitari.jpeg);">
                                 </div>
                                 <span>secrétaire general</span>
                                 <h3>Salma Bitari</h3>
