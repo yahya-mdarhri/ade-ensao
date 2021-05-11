@@ -270,7 +270,7 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
 				</div>
                 <div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a class="blog-img-holder" style="background-image: url(images/veoftour.jpeg); background-size : cover; background-position : center;"></a>
+						<a class="blog-img-holder" style="background-image: url(images/veoftour.jpeg); background-size : cover; background-position : center;background-size : 100%;"></a>
 						<div class="blog-text">
 							<h3>VEO FTOUR</h3>
 							<p>L’évènement VEOFTOUR, est un projet caritatif organisé par notre club VEOLIFE pendant le mois de Ramadan. La première édition de cet événement a eu lieu RAMADAN 2021. L’objectif était de distribuer des sachets qui contiennent des produits alimentaires pour LFTOUR , et ALHAMDOLILAH on a put  distribuer 640 sachets (pour 640 personnes), et 4 panier (pour 4 familles ) .
@@ -280,7 +280,7 @@ Nous exprimons nos remerciement et notre gratitude à tous les bienfaiteurs qui 
 				</div>
                 <div class="col-lg-4 col-md-4">
 					<div class="fh5co-blog animate-box">
-						<a class="blog-img-holder" style="background-image: url(images/lacocina.jpeg); background-size : cover; background-position : center;"></a>
+						<a class="blog-img-holder" style="background-image: url(images/lacocina.jpeg); background-size : cover; background-position : center; background-size : 100%;"></a>
 						<div class="blog-text">
 							<h3>LA COCINA</h3>
 							<p>Pour les gourmands que nous sommes, la cuisine constitue une place prépondérante dans notre vie. Ces recettes que nous connaissons aujourd’hui par cœur et que nous transmettons à nos générations futures, nous ont également été transmises par des générations passées. Certains s’initient à la cuisine contemporaine tandis que d’autres partent en quête de perfection en intégrant des écoles culinaires. L’expérience prime partout sur les diplômes, car si bien se nourrir est d’une grande facilité, avoir un certain goût pour les présentations et la mise en valeur de la nourriture peut être un véritable parcours du combattant. C’est ainsi que vient l’idée de notre évènement LA COCINA, pour offrir aux participants la chance de présenter leurs compétences en art culinaire, et de se mettre dans la peau d’un vrai chef cuisinier. Personne ne peut nier que manger un plat fade et sans saveur n'offre pas plus de satisfaction qu'une rentrée scolaire ou une fin de vacances. Inversement, bien manger, goûter aux bons petits plats et déguster une bonne cuisine offrent du plaisir et du baume au cœur à tout épicurien qui se respecte! Les participants auront d’ailleurs l’occasion de perfectionner leurs talents en domaine cuisine.</p>
