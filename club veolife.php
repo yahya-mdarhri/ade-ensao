@@ -268,6 +268,16 @@ Il se sont donnés rendez-vous pour Halloween Party  afin d’évacuer le stress
 						</div> 
 					</div>
 				</div>
+                <div class="col-lg-4 col-md-4">
+					<div class="fh5co-blog animate-box">
+						<a class="blog-img-holder" style="background-image: url(images/veoftour.jpeg); background-size : cover; background-position : center;"></a>
+						<div class="blog-text">
+							<h3>VEO FTOUR</h3>
+							<p>L’évènement VEOFTOUR, est un projet caritatif organisé par notre club VEOLIFE pendant le mois de Ramadan. La première édition de cet événement a eu lieu RAMADAN 2021. L’objectif était de distribuer des sachets qui contiennent des produits alimentaires pour LFTOUR , et ALHAMDOLILAH on a put  distribuer 640 sachets (pour 640 personnes), et 4 panier (pour 4 familles ) .
+Nous exprimons nos remerciement et notre gratitude à tous les bienfaiteurs qui ont fourni leurs contributions à fin de réaliser cet événement.</p>
+						</div> 
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
