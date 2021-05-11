@@ -29,7 +29,7 @@
                 <div class="container">
                     <div class="row animate-box">
                         <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-                            <img src="images/klamlogo.png" width="250" height="100">
+                            <img src="images/klamlogo.png" width="200" height="100">
                             <br>
                             <br>
                             <p>Etant des élèves ingénieurs, à l'Ecole Nationale des Sciences Appliquées d'Oujda, il est de notre devoir d'être instruits et conscients des situations sociales et économiques de la région, et du Royaume. C'est dans ce cadre que nous avons lancé une émission nommée "K-LAM 2.0". Son but étant d'inviter des personnalités de haut calibre, afin de dialoguer avec eux sur des points socio-économiques qui intéressent le développement de notre pays.</p>
