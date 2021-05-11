@@ -170,19 +170,7 @@ Dans ce cadre nous avons décidé de nous ouvrir au monde extérieur, car notre 
                             
 
     <h2>MOT DU PRESIDENT</h2>
-                            <p>L'objectif principal du club Génie Infomatique est de former les professionels qui participent à la conception, la réalisation et la mise en oeuvre de solutions 
-informatiques correspondant aux besoins des utilisateurs. L'étudiant ingénieur en Génie Informatique exerce son activité dans les entreprises et 
-les organisations : sociétés de service en ingénerie informatique (SSII), télécommunication, banques, assurances, grande distribution, industries, services publics, 
-éditeurs de logiciels, etc. Il met ses compétences spécialisées en informatique (programmation, web, mobile, gestion, etc.) au services des fonctions des entreprises 
-ou administration (production industrielle, finance, comptabilité, ressources humaines, logistique, etc.)L'objectif principal du club Génie Infomatique est de former les professionels qui participent à la conception, la réalisation et la mise en oeuvre de solutions 
-informatiques correspondant aux besoins des utilisateurs. L'étudiant ingénieur en Génie Informatique exerce son activité dans les entreprises et 
-les organisations : sociétés de service en ingénerie informatique (SSII), télécommunication, banques, assurances, grande distribution, industries, services publics, 
-éditeurs de logiciels, etc. Il met ses compétences spécialisées en informatique (programmation, web, mobile, gestion, etc.) au services des fonctions des entreprises 
-ou administration (production industrielle, finance, comptabilité, ressources humaines, logistique, etc.)L'objectif principal du club Génie Infomatique est de former les professionels qui participent à la conception, la réalisation et la mise en oeuvre de solutions 
-informatiques correspondant aux besoins des utilisateurs. L'étudiant ingénieur en Génie Informatique exerce son activité dans les entreprises et 
-les organisations : sociétés de service en ingénerie informatique (SSII), télécommunication, banques, assurances, grande distribution, industries, services publics, 
-éditeurs de logiciels, etc. Il met ses compétences spécialisées en informatique (programmation, web, mobile, gestion, etc.) au services des fonctions des entreprises 
-ou administration (production industrielle, finance, comptabilité, ressources humaines, logistique, etc.)</p>
+                            <p>Nous vivons dans une époque de développement technologique sans précédent. En effet, la plupart des domaines scientifiques ont vu plus de percées au cours du demi-siècle dernier, que durant les vingt siècles précédents, et la cadence ne ralentit guère. Le fait de suivre un rythme au moins équivalent est donc non plus un luxe que l'on peut se permettre d'omettre, mais bel et bien une obligation péremptoire. L'Association des Etudiants s'efforce donc assidûment à la tâche de faire en sorte que les étudiants puissent toujours être à jour, que cela soit au niveau académique, ou au niveau des soft-skills. Nous travaillons donc sans relâche, en compagnie des clubs et des comités régis par l'ADE, afin d'organiser des événements opportuns à l'épanouissement des étudiants, des séminaires et webinaires pour enrichir la connaissance dans les domaines en vigueur, ainsi que des formations dans lesdits domaines si besoin s'en fait sentir. De plus, l'ADE représente le premier rempart, et principal émissaire des étudiants de l'école, vis à vis des organismes internes et externes. Elle se veut donc, en quelques sortes, leur porte-parole, ce qui représente donc un lourd fardeau à adosser, et nous en sommes conscients et honorés. En conclusion, je pourrais vous dire que l'ADE incarne un parent des étudiants, les représentant face au monde extérieur, et cherchant à les préparer à ce même monde jusqu'au jour où ils quitteront le domicile, pour faire notre fierté.</p>
 
                            
                         </div>
