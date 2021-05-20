@@ -40,7 +40,7 @@
                                </div>
                            </div>
                        </li>
-                       <li style="background-image: url(images/adeensaoujd.jpeg);background-size : 100%; background-position : center;background-size:cover;">
+                       <li style="background-image: url(images/adeensaooujd.jpeg);background-size : 100%; background-position : center;background-size:cover;">
                            <div class="overlay-gradient"></div>
                            <div class="container">
                                <div class="row">
