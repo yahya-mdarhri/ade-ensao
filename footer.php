@@ -16,16 +16,15 @@ L'ADE est un organisme qui regroupe chaque année 1000 étudiants, car chaque é
                             <a href="./magensao.php"><h3>MagEnsao</h3></a>
                             </ul>
                         </div>
-                        
                         <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
-                            <a href="./index-comités.php"><h3>comités</h3></a>
+                            <a href="./index-partenaires.php"><h3>partenaires</h3></a>
                             <ul class="fh5co-footer-links">
-                            <li><a href="./adhoc.php">AD.HOC</a></li>
-                                <li><a href="./eugo.php">EUGO</a></li>
-                                <li><a href="./FORUM.php">FORUM</a></li>
+                                <li><a href="https://alensao.com/" target="_blank">ALENSAO</a></li>
                                 
                             </ul>
                         </div>
+        
+                        
                         <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
                             <a href="./index-émissions.php"><h3>émissions</h3></a>
                             <ul class="fh5co-footer-links">
@@ -71,13 +70,14 @@ L'ADE est un organisme qui regroupe chaque année 1000 étudiants, car chaque é
                         </div>
         
                         <div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1 fh5co-widget">
-                            <a href="./index-partenaires.php"><h3>partenaires</h3></a>
+                            <a href="./index-comités.php"><h3>comités</h3></a>
                             <ul class="fh5co-footer-links">
-                                <li><a href="https://alensao.com/" target="_blank">ALENSAO</a></li>
+                            <li><a href="./adhoc.php">AD.HOC</a></li>
+                                <li><a href="./eugo.php">EUGO</a></li>
+                                <li><a href="./FORUM.php">FORUM</a></li>
                                 
                             </ul>
                         </div>
-        
                       
                         
                      
