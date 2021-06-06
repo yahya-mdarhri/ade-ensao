@@ -36,6 +36,17 @@
 					</div>
 				</div>
 			</div>
+            <div class="row">
+				<div class="col-lg-3 col-md-3">
+					<div class="mag animate-box" >
+						<a href="https://drive.google.com/file/d/1iksCefYwet4U-2WLCXJE-7sj3hz63aOz/view?fbclid=IwAR3WXvvhrc3aSch0msTsj77R2_hj5W6oZD_Xnp2RMuxjI7JRv-egOoGuiuM"   target="_blank " class="mag-img-holder" style="background-image: url(images/mag1.png)"></a>
+						<div class="mag-text">
+							<h3>MagEnsao N°2</h3>
+							<span class="posted_on">june. 3rd</span>
+						</div> 
+					</div>
+				</div>
+			</div>
 		</div>
 	</div>
 
