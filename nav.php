@@ -1,3 +1,15 @@
+<!-- google analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TR7F2FS70C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-TR7F2FS70C');
+</script>
+
+<!-- fin analytics -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <nav class="nav" role="navigation">
     <div class="top-menu upper-case"> 
