@@ -114,6 +114,24 @@
                         </div>
                     </div>
                 </div>
+                <div class="item px-2">
+                    <div class="fh5co_hover_news_img">
+                        <div class="fh5co_hover_news_img_video_tag_position_relative">
+                            <div class="fh5co_news_img">
+                                <iframe id="video" width="100%" height="200"
+                                        src="https://www.youtube.com/embed/uwvs5JeJNcg"
+                                        frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <div class="fh5co_hover_news_img_video_tag_position_absolute_1 fh5co_hide" id="play-video">
+                                <div class="fh5co_hover_news_img_video_tag_position_absolute_1_play_button_1">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pt-2">
+                            <div class="c_g">EP4: Mme Nawal EL MOUTAWAKEL </div>
+                        </div>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
